@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5OO7vrW6x+0QqOhGII0gd+XDnud9BUqpWHZ4HgVKeUE=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Users\\Alejandro\\source\\repos\\projetoWebPuc\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

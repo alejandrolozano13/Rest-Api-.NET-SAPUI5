@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "qhtJCib0EkGbnuor6lIBITNHCYNnv7yGQxie3A9q+QE=",
+  "Source": "we",
+  "BasePath": "_content/we",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "we\\wwwroot",
+      "Source": "we",
+      "ContentRoot": "C:\\Users\\Alejandro\\source\\repos\\projetoWebPuc\\we\\wwwroot\\",
+      "BasePath": "_content/we",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

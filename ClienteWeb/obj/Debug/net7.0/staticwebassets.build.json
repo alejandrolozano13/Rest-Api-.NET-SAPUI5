@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "482cbXwtXQWW38JtB/vELjtxFR/RsuztWxatE6h3RJ4=",
+  "Source": "ClienteWeb",
+  "BasePath": "_content/ClienteWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ClienteWeb\\wwwroot",
+      "Source": "ClienteWeb",
+      "ContentRoot": "C:\\Users\\Alejandro\\source\\repos\\projetoWebPuc\\ClienteWeb\\wwwroot\\",
+      "BasePath": "_content/ClienteWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
